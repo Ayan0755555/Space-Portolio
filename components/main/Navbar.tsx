@@ -31,8 +31,8 @@ const Navbar = () => {
     <div className="w-full h-[65px] fixed top-0 shadow-lg shadow-[#2A0E61]/50 bg-[#03001417] backdrop-blur-md z-50 px-5 md:px-10">
       <div className="w-full h-full flex items-center justify-between">
         <a href="#about-me" className="flex items-center">
-          <span className="font-bold ml-[10px] hidden md:block text-gray-300">
-            AYANREHMAN
+          <span className="font-bold ml-[10px] text-gray-300">
+            AYAN REHMAN
           </span>
         </a>
 
