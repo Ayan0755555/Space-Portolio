@@ -25,7 +25,7 @@ const Projects = () => {
         />
         <ProjectCard
           src="/Ehyan.png"
-          title="Space Themed Website"
+          title="EHYAN AUTO-Service full fledged Application"
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
         />
         <ProjectCard
