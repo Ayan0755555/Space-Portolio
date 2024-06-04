@@ -4,8 +4,8 @@ const FaqsData = () => {
   return (
     <div className='mb-12'>
       <div className="bg-transparent px-6 font-[sans-serif]">
-  <h2 className="text-3xl font-extrabold text-indigo-700 mb-10">Frequently Asked Questions</h2>
-  <div className="space-y-8 max-w-4xl">
+  <h2 className="text-3xl font-extrabold text-indigo-700 mb-10 ml-5">Frequently Asked Questions</h2>
+  <div className="space-y-8 max-w-full">
     <div className="flex items-start">
       <div className="flex-shrink-0">
         <svg className="h-6 w-6 text-indigo-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"
